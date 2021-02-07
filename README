@@ -1,2 +1,6 @@
-This is my repository.
-It consists of Matrix Library in C developed by me.
+# C-Matrix Operations Library
+
+To Compile: 
+(1) Navigate to the repository.
+(2) Run gcc test.c src/matrix_det.c on terminal to compile.
+(3) Run ./a.out on terminal to execute.
